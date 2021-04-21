@@ -1,0 +1,10 @@
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\bin\Debug\MausradKiller.exe.config
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\bin\Debug\MausradKiller.exe
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\bin\Debug\MausradKiller.pdb
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\obj\Debug\MausradKiller.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\obj\Debug\MausradKiller.Form1.resources
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\obj\Debug\MausradKiller.Properties.Resources.resources
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\obj\Debug\MausradKiller.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\obj\Debug\MausradKiller.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\obj\Debug\MausradKiller.exe
+C:\Users\Anton\source\repos\MausradKiller\MausradKiller\obj\Debug\MausradKiller.pdb
